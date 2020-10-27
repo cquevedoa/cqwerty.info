@@ -1,0 +1,22 @@
+/* body {
+    color: white;
+} */
+
+/** Utilidades **/
+.fw-300 {
+    font-weight: 300;
+}
+.h-seccion {
+    text-align: center;
+    padding: 2rem 0;
+}
+.centrar-texto {
+    text-align: center;
+}
+.d-block {
+    display: block!important;
+}
+.contenido-centrado {
+    max-width: 800px;
+}
+
